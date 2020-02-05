@@ -38,6 +38,7 @@ Return to Top
 <html>
 <head>
 <meta charaset = “utf-8”>
+	
 <title>Apple Macintosh</title>
 </head>
 <body>
@@ -77,6 +78,7 @@ Return to Top
 <html>
 <head>
 <meta charaset = “utf-8”>
+	
 <title>Apple Macintosh</title>
 </head>
 <body>
@@ -112,6 +114,7 @@ Return to Top
 <html>
 <head>
   <meta charaset = “utf-8”>
+	
   <title>Apple Macintosh</title>
 </head>
 <body>
