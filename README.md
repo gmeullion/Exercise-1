@@ -41,15 +41,13 @@ Return to Top
 <title>Apple Macintosh</title>
 </head>
 <body>
-	<h4>Flynn's Retro Computers</h4>
-	<h1>TRS 80</h1>
-
+<h4>Flynn's Retro Computers</h4>
+<h1>TRS 80</h1>
 	<h5>[Navigation]</h5>
 	<h5>Home</h5>
 	<h5>Apple II</h5>
 	<h5>Commodore 64</h5>
 	<h5>TRS 80</h5>
-
 <img src= “trs-80.jpg
 <a href= “TRS-80” alt= Commodore 64></a>
 
@@ -85,13 +83,11 @@ Return to Top
 
 <h4>Flynn’s Retro Computers</h4>
 <h1>Apple II</h1>
-
 	<h5>[Navigation]</h5>
 	<h5>Home</h5>
 	<h5>Apple II</h5>
 	<h5>Commodore 64</h5>
 	<h5>TRS 80</h5>
-
 <img src= “apple-ii.
 <a href= “apple-ii.jpg” alt= Apple II></a>
 
@@ -102,7 +98,6 @@ Return to Top
 
 <h3>Specifications</h3>
 <ul>
-
 	<li>Release Date: June 1977</li>
 	<li>Price: $1,298</li>
 	<li>Operating System: Integer BASIC</li>
@@ -123,13 +118,11 @@ Return to Top
 
 <h4>Flynn’s Retro Computers</h4>
 <h1>Commodore 64</h1>
-
 	<h5>[Navigation]</h5>
 	<h5>Home</h5>
 	<h5>Apple II</h5>
 	<h5>Commodore 64</h5>
 	<h5>TRS 80</h5>
-
 <img src= “commodore-64.jpg
 <a href= “Commodore 64” alt= Commodore 64></a>
 
