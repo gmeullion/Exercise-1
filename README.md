@@ -2,8 +2,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charaset = “utf-8”>
-  <title>Flynn</title>
+<meta charaset = “utf-8”>
+<title>Flynn</title>
 </head>
 <body>
 <h1>My first webpage</h1>
