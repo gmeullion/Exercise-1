@@ -49,8 +49,6 @@ Return to Top
 	<h5>Commodore 64</h5>
 	<h5>TRS 80</h5>
 <img src= “trs-80.jpg" alt= "TRS 80">
-<a href= “TRS-80.jpg” alt= "TRS 80" 64></a>
-
 
 <p><strong>The TRS-80 Micro Computer System</strong> (TRS-80) is a desktop microcomputer launched in 1977 and sold by Tandy Corporation through their Radio Shack stores. The name is an abbreviation of Tandy/Radio Shack, Z-80 microprocessor. It was one of the earliest mass-produced and mass-marketed retail personal computers.</p>
 
@@ -90,7 +88,6 @@ Return to Top
 	<h5>Commodore 64</h5>
 	<h5>TRS 80</h5>
 <img src= “apple-ii.jpg" alt= "Apple II">
-<a href= “apple-ii.jpg” alt= Apple II></a>
 
 <p><strong>The Apple II</strong> (stylized as Apple ][) is an 8-bit home computer, one of the first highly successful mass-produced microcomputer products, designed primarily by Steve Wozniak. Steve Jobs oversaw the development of the Apple II's foam-molded plastic case and Rod Holt developed the switching power supply.</p>
 
@@ -126,7 +123,7 @@ Return to Top
 	<h5>Commodore 64</h5>
 	<h5>TRS 80</h5>
 <img src= “commodore-64.jpg" alt= "Commodor 64">
-<a href= “Commodore 64” alt= "Commodore 64"></a>
+
 
 <p><strong>The Commodore 64</strong>, also known as the C64 or the CBM 64, is an 8-bit home computer introduced in January 1982 by Commodore International. It has been listed in the Guinness World Records as the highest-selling single computer model of all time, with independent estimates placing the number sold between 10 and 17 million units.</p>
 
