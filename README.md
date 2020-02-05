@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>My first webpage</h1>
-  <p> This is a sentence</p>
+  <p> This is a sentence.</p>
 <h2>List</h2>
 <h3> Ordered List</h2>
 <ol>
