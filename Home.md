@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charaset = “utf-8”>
+	
+<!--<title>--<h2>Flynn's Retro Computers</h2></title--> 
+</head>
+<body>
+<h1>Flynn's Retro Computers</h1>
+
+
+Welcome to Flynn's Retro Computers, a web shop dedicated to old-school minicomputers from the 1970s and 1980s. We've got the most complete catalog anywhere on the Internet!
+
+
+Our Products
+
+Microcomputers
+
+- Apple II
+- Commodore 64
+- TRS 80
+
+Accessories
+
+- 5.25 Floppy Disks
+- 1200 Baud Modem
+- Disk Drive
+- Printer
+
+Coming Soon
+
+- Apple Macintosh
+- Atari ST
+- Commodore Amiga
+- IBM PC
