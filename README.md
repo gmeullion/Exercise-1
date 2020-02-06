@@ -111,7 +111,7 @@ Return to Top
 <head>
   <meta charaset = “utf-8”>
 	
-  <!--<title>--> <h2>Commodore 64</h2><!--</title>--> 
+  <!--<title>--<h2>Commodore 64</h2></title>--> 
 </head>
 <body>
 
