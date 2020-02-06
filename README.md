@@ -2,41 +2,6 @@
 <html>
 <head>
 <meta charaset = “utf-8”>
-<!--<title>Flynn</title>-->
-</head>
-<body>
-<h1>My first webpage</h1>
-  <p> This is a sentence.</p>
-<h2>List</h2>
-<h3> Ordered List</h2>
-<ol>
-  <li>California</li>
-  <li>Texas</li>
-  <li>Florida</li>
-</ol>
-  
-<h3>Unordered List</h2>
-<ul>
-  <li>Cat</li>
-  <li>Fish</li>
-  <li>Dog</li>
-</ul>
-<h3>Definition List</h2>
-<dl>
-<dt>Hurricane</dt>
-	<dd> A tropical storm with winds greater than 74mph</dd>
-</dl>
-<h3>Links</h3>
-	<p>Sebastian the Ibis is the mascot for the<a href= “http://www.miami.edu”> University of Miami</a><P>
-More Tags
-Return to Top
-</body>
-</html>
-
-<!DOCTYPE html>
-<html>
-<head>
-<meta charaset = “utf-8”>
 	
 <!--<title>--<h2>TRS-80</h2></title--> 
 </head>
@@ -48,7 +13,7 @@ Return to Top
 	<h5>Apple II</h5>
 	<h5>Commodore 64</h5>
 	<h5>TRS 80</h5>
-<img src= “trs-80.jpg" alt= "TRS 80">
+<img src="trs-80.jpg" alt="TRS 80">
 
 <p><strong>The TRS-80 Micro Computer System</strong> (TRS-80) is a desktop microcomputer launched in 1977 and sold by Tandy Corporation through their Radio Shack stores. The name is an abbreviation of Tandy/Radio Shack, Z-80 microprocessor. It was one of the earliest mass-produced and mass-marketed retail personal computers.</p>
 
@@ -122,8 +87,7 @@ Return to Top
 	<h5>Apple II</h5>
 	<h5>Commodore 64</h5>
 	<h5>TRS 80</h5>
-<img src= “commodore-64.jpg" alt= "Commodor 64">
-
+<img src="commodore-64.jpg" alt="Commodor 64">
 
 <p><strong>The Commodore 64</strong>, also known as the C64 or the CBM 64, is an 8-bit home computer introduced in January 1982 by Commodore International. It has been listed in the Guinness World Records as the highest-selling single computer model of all time, with independent estimates placing the number sold between 10 and 17 million units.</p>
 
