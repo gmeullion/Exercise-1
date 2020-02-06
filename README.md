@@ -38,7 +38,7 @@ Return to Top
 <head>
 <meta charaset = “utf-8”>
 	
-<!--<title>--><h2>TRS-80</h2><!--</title>--> 
+<!--<title>--<h2>TRS-80</h2></title--> 
 </head>
 <body>
 <h4>Flynn's Retro Computers</h4>
@@ -76,7 +76,7 @@ Return to Top
 <head>
 <meta charaset = “utf-8”>
 	
-<!--<title>--> <h2>Apple Macintosh</h2><!--</title>--> 
+<!--<title>--h2>Apple Macintosh</h2</title>--> 
 </head>
 <body>
 
