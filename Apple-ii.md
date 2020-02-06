@@ -11,8 +11,8 @@
 <h1>Apple II</h1>
 	<h5>[Navigation]</h5>
 	<h5>Home</h5>
-	<h5>Apple II</h5>
-	<h5>Commodore 64</h5>
+	<h5><a href="Apple-ii.md" alt= "Apple II">Apple II</a></h5>
+	<h5><h5><a href="Apple-ii.md" alt= "Apple II">Apple II</a></h5>Commodore 64</h5>
 	<h5>TRS 80</h5>
 <img src="apple-ii.jpg" alt="Apple II">
 
