@@ -87,7 +87,7 @@ Return to Top
 	<h5>Apple II</h5>
 	<h5>Commodore 64</h5>
 	<h5>TRS 80</h5>
-<img src= “apple-ii.jpg" alt= "Apple II">
+<img src="apple-ii.jpg" alt="Apple II">
 
 <p><strong>The Apple II</strong> (stylized as Apple ][) is an 8-bit home computer, one of the first highly successful mass-produced microcomputer products, designed primarily by Steve Wozniak. Steve Jobs oversaw the development of the Apple II's foam-molded plastic case and Rod Holt developed the switching power supply.</p>
 
