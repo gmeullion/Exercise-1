@@ -12,7 +12,7 @@
 	<h5>Home</h5>
 	<h5>Apple II</h5>
 	<h5>Commodore 64</h5>
-	<h5>TRS 80</h5>
+	<h5><a href="TRS-80.md" alt= "TRS-80">TRS 80</h5>
 <img src="trs-80.jpg" alt="TRS 80">
 
 <p><strong>The TRS-80 Micro Computer System</strong> (TRS-80) is a desktop microcomputer launched in 1977 and sold by Tandy Corporation through their Radio Shack stores. The name is an abbreviation of Tandy/Radio Shack, Z-80 microprocessor. It was one of the earliest mass-produced and mass-marketed retail personal computers.</p>
