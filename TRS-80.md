@@ -11,7 +11,7 @@
 	<h4>[Navigation]</h4>
 	<h5><h5><a href="Home.md" alt="Home">Home</a></h5></h5>
 	<h5><a href="Apple-ii.md" alt="Apple II">Apple II</a></h5>
-	<h5><a href="Commodore 64.md" alt="Commodore 64">Commodore 64</a></h5>
+	<h5><a href="Commodore-64.md" alt="Commodore-64.md">Commodore 64</a></h5>
 	<h5><a href="TRS-80.md" alt="TRS-80">TRS 80</a></h5>
 <img src="trs-80.jpg" alt="TRS 80">
 
