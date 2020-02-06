@@ -13,7 +13,7 @@
 	<h5>Home</h5>
 	<h5><a href="Apple-ii.md" alt= "Apple II">Apple II</a></h5>
 	<h5><a href="Commodore-64.md" alt="Commodore-64.md">Commodore 64</a></h5>
-	<h5><a href="TRS-80.md" alt= "TRS-80">TRS 80</h5>
+	<h5><a href="TRS-80.md" alt= "TRS-80">TRS 80</a></h5>
 <img src="commodore-64.jpg" alt="Commodor 64">
  	
 <p><strong>The Commodore 64</strong>, also known as the C64 or the CBM 64, is an 8-bit home computer introduced in January 1982 by Commodore International. It has been listed in the Guinness World Records as the highest-selling single computer model of all time, with independent estimates placing the number sold between 10 and 17 million units.</p>
